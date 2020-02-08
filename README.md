@@ -20,4 +20,4 @@ let sorted_arr = arr.sort( (arrItem1, arrItem2) => return 1 if arrItem1 > arrIte
 
 let res = arr.reduce( (res, arrItem) => res.action(arrItem), initial value of res )
 
-#v1
+#v4
