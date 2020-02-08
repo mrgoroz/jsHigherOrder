@@ -19,3 +19,5 @@ let sorted_arr = arr.sort( (arrItem1, arrItem2) => return 1 if arrItem1 > arrIte
 //reduce: get value from all items in arr
 
 let res = arr.reduce( (res, arrItem) => res.action(arrItem), initial value of res )
+
+#v1
